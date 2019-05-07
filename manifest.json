@@ -1,0 +1,24 @@
+{
+    "name": "test1",
+    "short_name": "Test1",
+    "icons": [{
+        "src": "img/manifest/128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    }, {
+        "src": "img/manifest/152x152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+    }, {
+        "src": "img/manifest/144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#4acaa8",
+    "scope": "/",
+    "lang": "en-US",
+    "orientation": "any"
+}
