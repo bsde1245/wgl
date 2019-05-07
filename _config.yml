@@ -17,8 +17,8 @@ title: Kerala Whatsapp Groups
 email: contact@justinechacko.in
 description: > # this means to ignore newlines until "baseurl:"
   Kerala whatsapp group links
-baseurl: "" 
-url: "http://justinechacko.github.io/wgl" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/wgl" 
+url: "http://justinechacko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
