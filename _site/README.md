@@ -1,2 +1,0 @@
-# wgl
-Whatsapp group links
